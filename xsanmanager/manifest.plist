@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hyundai.HMSA</string>
+				<string>kr.co.xcolo.XscanManager</string>
 				<key>bundle-version</key>
-				<string>3.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HMS_Seoul</string>
+				<string>xScanManager</string>
 			</dict>
 		</dict>
 	</array>
