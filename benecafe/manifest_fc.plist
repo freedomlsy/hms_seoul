@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.etbs.benecafeshift</string>
+				<string>kr.co.etbs.benecafeFC</string>
 				<key>bundle-version</key>
-				<string>2.0.3</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>benecafeshift</string>
+				<string>FC 몰</string>
 			</dict>
 		</dict>
 	</array>
