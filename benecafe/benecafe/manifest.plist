@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/n9rh2s02sy0296i/benecafe.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/5cmawn2qnstg4oo/benecafe.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kr.co.etbs.benecafeKT</string>
+				<string>kr.co.etbs.benecafe</string>
 				<key>bundle-version</key>
-				<string>2.0.1</string>
+				<string>2.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>benecafeKT</string>
+				<string>benecafe</string>
 			</dict>
 		</dict>
 	</array>
